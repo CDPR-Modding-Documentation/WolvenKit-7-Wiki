@@ -1,0 +1,5 @@
+# What is Legacy WolvenKit?
+
+## Purpose
+
+This repository was created to demonstrate how [CDPR](https://en.wikipedia.org/wiki/CD\_Projekt)'s proprietary [**REDEngine**](https://en.wikipedia.org/wiki/CD\_Projekt#REDengine) reads and writes its different file formats, and to experiment the inner works of games running on this engine i.e. **The Witcher 3: The Wild Hunt**. This toolkit was made solely for research and educational purposes, and the dev team is in no way responsible for any malfunctions that occur from its use. WolvenKit is completely open source, licensed under GPL v3.0, and in no way is it made to generate revenue. An ancestor to this tool was [W3Edit](https://drive.google.com/file/d/0B3axqSlhNHOOYmpkWk83TXRkZmM/view), initially developed by [Sarcen](http://forums.cdprojektred.com/forum/en/the-witcher-series/the-witcher-3-wild-hunt/mod-discussions/58758-mod-editor) in 2015, around the time The Witcher 3: Wild Hunt was released. After Sarcen stopped working on W3Edit, it was picked up and continued by the team that is now the WolvenKit Team.
