@@ -9,5 +9,5 @@
 ## GitHub
 
 {% hint style="info" %}
-[https://github.com/WolvenKit/WolvenKit/releases](https://github.com/WolvenKit/WolvenKit/releases)
+[https://github.com/WolvenKit/WolvenKit-7/releases](https://github.com/WolvenKit/WolvenKit-7/releases)
 {% endhint %}
